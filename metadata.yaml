@@ -1,0 +1,30 @@
+_repo: George-Sand-et-ses-amis_13737
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Roy, Albert
+    aliases:
+    - Leroy, Albert
+    - Roy, Albert le
+    birthdate: 1856
+    deathdate: 1905
+    gutenberg_agent_id: '5200'
+    url: http://www.gutenberg.org/2009/agents/5200
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2004-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13737'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sand, George, 1804-1876'
+- !lcc 'PQ'
+title: George Sand et ses amis
+url: http://www.gutenberg.org/ebooks/13737
